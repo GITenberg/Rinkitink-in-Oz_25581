@@ -1,0 +1,64 @@
+_repo: Rinkitink-in-Oz_25581
+_version: 0.1.0
+contributor:
+  illustrator:
+    agent_name: Neill, John R. (John Rea)
+    alias: Neill, John Rea
+    birthdate: 1877
+    deathdate: 1943
+    gutenberg_agent_id: '26521'
+    url: http://www.gutenberg.org/2009/agents/26521
+    wikipedia: http://en.wikipedia.org/wiki/John_R._Neill
+covers:
+- cover_type: archival
+  image_path: 25581-h/images/cover.jpg
+creator:
+  author:
+    agent_name: Baum, L. Frank (Lyman Frank)
+    aliases:
+    - Fitzgerald, Hugh
+    - Van Dyne, Edith
+    - Fitzgerald, Capt. Hugh
+    - Akers, Floyd
+    - Metcalf, Suzanne
+    - Bancroft, Laura
+    - Baum, Lyman Frank
+    - Cooke, John Estes
+    birthdate: 1856
+    deathdate: 1919
+    gutenberg_agent_id: '42'
+    url: http://www.gutenberg.org/2009/agents/42
+    wikipedia: http://en.wikipedia.org/wiki/L._Frank_Baum
+description: 'Rinkitink in Oz: Prince Inga of Pingaree must rescue his parents and
+  all of the subjects from his kingdom who were kidnaped by marauders form Regos and
+  Coregos. Prince Inga along with the visiting King Rinkitink and Bilbil the goat
+  set off on a series of grand adventures that will lead them to the underground kingdom
+  of the Nome King. Will Inga''s bravery and courage be enough to save his parents
+  and all of their subjects? This lavishly illustrated edition has more than one hundred
+  illustrations by John R. Neill.'
+gutenberg_bookshelf: Children's Literature
+gutenberg_issued: '2008-05-24'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '25581'
+language: en
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcsh 'Wizard of Oz (Fictitious character) -- Juvenile fiction'
+- !lcsh 'Fantasy literature'
+- !lcsh 'Goats -- Juvenile fiction'
+- !lcsh 'Friendship -- Juvenile fiction'
+- !lcsh 'Escapes -- Juvenile fiction'
+- !lcsh 'Adventure and adventurers -- Juvenile fiction'
+- !lcsh 'Magic -- Juvenile fiction'
+- !lcc 'PZ'
+- !lcsh 'Gale, Dorothy (Fictitious character) -- Juvenile fiction'
+- !lcsh 'Islands -- Juvenile fiction'
+- !lcsh 'Kings and rulers -- Juvenile fiction'
+- !lcsh 'Good and evil -- Juvenile fiction'
+- !lcsh 'Slaves -- Juvenile fiction'
+- !lcsh 'Oz (Imaginary place) -- Juvenile fiction'
+title: Rinkitink in Oz
+url: http://www.gutenberg.org/ebooks/25581
