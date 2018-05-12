@@ -36,6 +36,8 @@ description: 'Rinkitink in Oz: Prince Inga of Pingaree must rescue his parents a
   of the Nome King. Will Inga''s bravery and courage be enough to save his parents
   and all of their subjects? This lavishly illustrated edition has more than one hundred
   illustrations by John R. Neill.'
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/25581#Rinkitink-in-Oz
 gutenberg_bookshelf: Children's Literature
 gutenberg_issued: '2008-05-24'
 gutenberg_type: Text
